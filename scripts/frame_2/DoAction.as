@@ -1,0 +1,2 @@
+frame_dispatch();
+killHand();

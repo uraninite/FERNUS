@@ -1,0 +1,2 @@
+frame_cameraSettings();
+killHand();

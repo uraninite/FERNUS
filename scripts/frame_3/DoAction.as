@@ -1,0 +1,2 @@
+frame_privacy();
+killHand();

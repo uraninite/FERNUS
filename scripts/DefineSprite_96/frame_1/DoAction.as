@@ -1,0 +1,1 @@
+mgrad.setMask(gMask);

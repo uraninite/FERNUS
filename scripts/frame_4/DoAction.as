@@ -1,0 +1,2 @@
+frame_localInformation();
+killHand();

@@ -1,0 +1,1 @@
+_parent.myMenuInit(this);

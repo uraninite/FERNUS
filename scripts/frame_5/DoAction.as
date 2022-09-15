@@ -1,0 +1,2 @@
+frame_microphoneSettings();
+killHand();
